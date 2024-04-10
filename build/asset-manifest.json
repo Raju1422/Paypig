@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Paypig/static/css/main.372f570d.css",
+    "main.js": "/Paypig/static/js/main.cb26cb1a.js",
+    "static/media/section3image.png": "/Paypig/static/media/section3image.36b61f803b787ecaf2c9.png",
+    "static/media/section5image.png": "/Paypig/static/media/section5image.a9e887d410d8798e8cd5.png",
+    "static/media/heroimage.png": "/Paypig/static/media/heroimage.6a8121356f332631f44a.png",
+    "static/media/earner5.jpg": "/Paypig/static/media/earner5.f2f4268a8eddb87c66a5.jpg",
+    "static/media/pagenotfound.png": "/Paypig/static/media/pagenotfound.02682554386a8ce4a545.png",
+    "static/media/profile (1).png": "/Paypig/static/media/profile (1).d19b13d11834e803d51b.png",
+    "static/media/earner4.jpg": "/Paypig/static/media/earner4.a5ac31f919fb086294cc.jpg",
+    "static/media/background-image (1).jpeg": "/Paypig/static/media/background-image (1).91f2be8b0b5cbcb3177e.jpeg",
+    "static/media/earner3.jpg": "/Paypig/static/media/earner3.2b4928c69b3c5a0b0477.jpg",
+    "static/media/earner2.jpg": "/Paypig/static/media/earner2.89e03456b85d9b33017e.jpg",
+    "static/media/earners1.jpg": "/Paypig/static/media/earners1.6b02998725611985bc5e.jpg",
+    "index.html": "/Paypig/index.html",
+    "main.372f570d.css.map": "/Paypig/static/css/main.372f570d.css.map",
+    "main.cb26cb1a.js.map": "/Paypig/static/js/main.cb26cb1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.372f570d.css",
+    "static/js/main.cb26cb1a.js"
+  ]
+}
